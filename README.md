@@ -1,3 +1,3 @@
-# DEMO-MG
+# DEMO-REPO
 practise purpose
 
